@@ -10,3 +10,6 @@ Html: Decent amount<br>
 CSS: A little<br>
 Scratch: A ton<br>
 GDScript: A lot<br>
+
+## Look at my profile on these I geuss
+tbd
